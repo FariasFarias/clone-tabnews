@@ -7,7 +7,7 @@ function teste() {
 }
 
 function teste2() {
-  console.log("teste");
+  console.log("teste2");
 }
 
 export default Home;
